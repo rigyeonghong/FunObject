@@ -11,3 +11,4 @@
 2. 한주에 한장씩
 3. 시간은 1시간 내로 끝내기
 4. 스터디 당일(발표자, 서기) 뽑아서 진행
+https://lazygyu.github.io/roulette/
